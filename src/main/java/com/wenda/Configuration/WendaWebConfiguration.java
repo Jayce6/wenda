@@ -6,10 +6,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 import org.springframework.web.servlet.config.annotation.*;
 
-/**
- * @auther 张伟豪
- * @create 2019/6/24-21:06
- */
 @Component
 public class WendaWebConfiguration implements WebMvcConfigurer {
 
